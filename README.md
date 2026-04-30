@@ -24,7 +24,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![nnU-Net](https://img.shields.io/badge/nnU--Net-0A0A0A?style=flat)
 ![MONAI](https://img.shields.io/badge/MONAI-0099FF?style=flat)
-![YOLOv8](https://img.shields.io/badge/YOLOv8%2Fv11%2Fv26-00FFFF?style=flat&logo=ultralytics&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8%2Fv11-00FFFF?style=flat&logo=ultralytics&logoColor=black)
 ![Mask R-CNN](https://img.shields.io/badge/Mask%20R--CNN-764ABC?style=flat)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
@@ -57,11 +57,24 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cestovatels&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cestovatels&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Cestovatels&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
+</p>
+
+---
+
 ## 📫 Contact
 
 - 📧 [berk_gezgin@hotmail.com](mailto:berk_gezgin@hotmail.com)
 - 💼 [linkedin.com/in/berk-gezgin-7bg](https://linkedin.com/in/berk-gezgin-7bg)
-- 📍 Bursa, Turkey
+- 📍 Eskişehir, Turkey
 
 ---
 
