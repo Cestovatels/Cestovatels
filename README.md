@@ -24,7 +24,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![nnU-Net](https://img.shields.io/badge/nnU--Net-0A0A0A?style=flat)
 ![MONAI](https://img.shields.io/badge/MONAI-0099FF?style=flat)
-![YOLOv8](https://img.shields.io/badge/YOLOv8%2Fv11-00FFFF?style=flat&logo=ultralytics&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8%2Fv11%2Fv26-00FFFF?style=flat&logo=ultralytics&logoColor=black)
 ![Mask R-CNN](https://img.shields.io/badge/Mask%20R--CNN-764ABC?style=flat)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
