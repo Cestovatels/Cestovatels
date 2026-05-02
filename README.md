@@ -33,6 +33,7 @@
 ![NiBabel](https://img.shields.io/badge/NiBabel-2E8B57?style=flat)
 ![SimpleITK](https://img.shields.io/badge/SimpleITK-2E8B57?style=flat)
 ![Open3D](https://img.shields.io/badge/Open3D-2E8B57?style=flat)
+![3DSlicer](https://img.shields.io/badge/3DSlicer-2E8B57?style=flat)
 
 **Vision & Processing**  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
