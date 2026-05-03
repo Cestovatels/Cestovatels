@@ -62,8 +62,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cestovatels&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cestovatels&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cestovatels&theme=github_dark" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cestovatels&theme=github_dark" height="160"/>
 </p>
 
 <p align="center">
@@ -80,4 +80,4 @@
 
 ---
 
-*Open to collaboration on computer vision & medical AI projects.*
+*Open to collaboration on computer vision & medical AI projects & AI projects*
