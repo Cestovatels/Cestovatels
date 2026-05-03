@@ -53,6 +53,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [CephaloHRNet](https://github.com/Cestovatels/CephaloHRNet) | End-to-end HRNet cephalometric landmark detection with full training, evaluation & inference pipeline | Python · PyTorch · HRNet |
 | [YOLO-Pipeline-Auto](https://github.com/Cestovatels/YOLO-Pipeline-Auto) | End-to-end automated YOLO training pipeline with dataset preprocessing, training, evaluation & reporting | Python · YOLOv8 |
 | [Vehicle-License-Plate-Recognition-System](https://github.com/Cestovatels/Vehicle-License-Plate-Recognition-System) | Complete ALPR system with detection, tracking, OCR & visualization | Python · OpenCV |
 
